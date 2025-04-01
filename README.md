@@ -2,8 +2,8 @@
 Analyzing UPI Transaction Growth in India​ - A Data-Driven Approach to Understanding Trends and Forecasts​
 
 Data from: 
-https://www.npci.org.in/what-we-do/upi/product-statistics
-https://www.npci.org.in/what-we-do/upi/upi-ecosystem-statistics
+1. https://www.npci.org.in/what-we-do/upi/product-statistics
+2. https://www.npci.org.in/what-we-do/upi/upi-ecosystem-statistics
 
 Raw data:
 https://docs.google.com/spreadsheets/d/1lIchFf8Hh0CkMaSeYAa5S3WVBpElS5g3DWmwhQuYDtU/edit
@@ -21,5 +21,5 @@ Presentation:
 https://powerpoint.cloud.microsoft/open/onedrive/?docId=7839E9F9C8E5AC2C%21s737e448426584702bfaf489da728e1a3&driveId=7839E9F9C8E5AC2C
 
 Related docs:
-https://docs.google.com/document/d/1qC601tAU6fWS4XuvXAokepQSOGIG-e_xd9_STjyNtGY/edit?tab=t.0#heading=h.ofu9w56vzbc1
-https://docs.google.com/document/d/1oJI2KRBhqMmB8S3_HzhQLWjMveN7be_mc4T8CUtBsTk/edit?tab=t.0#heading=h.fudnq3lfgwna
+1. https://docs.google.com/document/d/1qC601tAU6fWS4XuvXAokepQSOGIG-e_xd9_STjyNtGY/edit?tab=t.0#heading=h.ofu9w56vzbc1
+2. https://docs.google.com/document/d/1oJI2KRBhqMmB8S3_HzhQLWjMveN7be_mc4T8CUtBsTk/edit?tab=t.0#heading=h.fudnq3lfgwna
